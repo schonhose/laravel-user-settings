@@ -1,7 +1,7 @@
 {
-    "name": "ricardoboss/laravel-user-settings",
+    "name": "schonhose/laravel-user-settings",
     "description": "Simple user settings facade for Laravel.",
-    "homepage": "https://github.com/ricardoboss/laravel-user-settings",
+    "homepage": "https://github.com/schonhose/laravel-user-settings",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +13,10 @@
             "name": "Ricardo Boss",
             "email": "contact@ricardoboss.de",
             "homepage": "https://ricardoboss.de"
+        },
+        {
+            "name": "Dennis Mooibroek",
+            "email": "schonhose@gmail.com"
         }
     ],
     "require": {
